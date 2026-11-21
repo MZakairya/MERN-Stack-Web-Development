@@ -120,3 +120,8 @@ MERN-Stack-Web-Development/
 | 📂 Portfolio-Projects | Portfolio-ready projects                          |
 | 📂 Mani-Projects      | Complete real-world projects                      |
 | 📄 README.md          | Overview of the repository and its structure      |
+
+---
+
+# MERN-Stack-Web-Development
+A collection of learning resources, practice exercises, and projects covering the MERN Stack, including MongoDB, Express.js, React.js, and Node.js, with a focus on building modern, responsive, and full-stack web applications.
